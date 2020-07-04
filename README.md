@@ -1,4 +1,5 @@
 # Soil-Moisture-Sensor-Raspberry-Pi
+how to run the coding
 
 This is coding for rasberry pi for the projuse THONNY PYTHON IDE on your RASPBERRY PI. in my case i use Raspberry Pi 3 Model B+.
 
